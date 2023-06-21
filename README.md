@@ -21,7 +21,7 @@ _<p align="center">"Eating website for fun... nyom nyom nyom"</p>_
 ## Demo
 
 <div align="center" style="text-align:center; margin:auto;">
-<img align="center" src="./images/Visualize Sorting Algo - Google Chrome 2021-05-21 20-21-08" width="150"/>
+<img align="center" src="./images/Visualize%20Sorting%20Algo%20-%20Google%20Chrome%202021-05-21%2020-21-08.gif" width="300"/>
     A web application showcasing the inner workings of sorting algorithms.
 </div>
 
