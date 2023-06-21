@@ -68,3 +68,21 @@ footer{
 .construction{
     display: none;
 }
+
+@media only screen and (max-width: 1043px) {
+    main{
+        display: none !important;
+    }
+    .warn{
+        display: block;
+        text-align: center;
+    }
+    .construction{
+        display: block;
+        text-align: center;
+    }
+    .construction img{
+        height: 300x;
+        width: 300px;
+    }
+  }
