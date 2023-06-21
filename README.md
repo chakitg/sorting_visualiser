@@ -18,21 +18,29 @@ _<p align="center">"Eating website for fun... nyom nyom nyom"</p>_
 
 :star: Star me on GitHub — it helps!
 
+## Demo
+
+<div align="center" style="text-align:center; margin:auto;">
+<img align="center" src="./images/Visualize Sorting Algo - Google Chrome 2021-05-21 20-21-08" width="150"/>
+    A web application showcasing the inner workings of sorting algorithms.
+</div>
+
+
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5, CSS3 & Javascript\
-⚡️ Multiple Alogrithms
-⚡️ Easy to modify
-⚡️ Colored representation of step being executed.
-    - Blue:default
-    - Yellow: Being compared
-    - Red: Identified as in incorrect position and to be moved
-    - Green: In correct position
-⚡️ Controls for visualizations
-    - Speed of visualization (5 speed levels)
-    - Variable Data size ()
-    - Generation of new data (Randomly generate new data).
-⚡️ Time and Space complexity of algorithm being visualized.
+⚡️ Multiple Alogrithms\
+⚡️ Easy to modify\
+⚡️ Colored representation of step being executed:\
+\>>>> Blue:default\
+\>>>> Yellow: Being compared\
+\>>>> Red: Identified as in incorrect position and to be moved\
+\>>>> Green: Incorrect position\
+⚡ Controls for visualizations\
+\>>>> Speed of visualization (5 speed levels)\
+\>>>> Variable Data size\
+\>>>> Generation of new data (Randomly generate new data).\
+⚡️ Time and Space complexity of algorithm being visualized.\
 
 
 ## Algorithms Covered
